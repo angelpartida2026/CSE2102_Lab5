@@ -1,9 +1,9 @@
 # This is Lab 5
 
 </br>
-cd demo
+Codespace> cd demo
 </br>
-mvn clean install
+Codespace> mvn clean install
 </br>
-mvn spring-boot:run
+Codespace> mvn spring-boot:run
 
