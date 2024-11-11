@@ -1,5 +1,8 @@
 # This is Lab 5
 
+Download all the files in the repo then:
+
+
 </br>
 Codespace> cd demo
 </br>
